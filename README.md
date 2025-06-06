@@ -1,5 +1,6 @@
 # fact checking with prompt chaining
 
+ - Cloned from github.com/jagilley/fact-checker.git
 This repo is a simple demonstration of doing fact-checking with prompt chaining. How it works:
 - you ask your desired LLM a question
 - the LLM generates an initial answer to the question
